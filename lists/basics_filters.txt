@@ -1,0 +1,31 @@
+! 2023-08-05 https://buy.tinypass.com
+||buy.tinypass.com^
+
+! 2023-08-05 https://twitchy.com
+||c2.piano.io^
+||id.tinypass.com^
+||api-esp.piano.io^
+||cdn.tinypass.com^
+||experience.tinypass.com^
+
+! 2023-08-05 https://buy.tinypass.com
+||i.piano.io^$image
+
+https://twitchy.com/wp-content/plugins/TH-subscriptions/dist/js/piano-subscription.min.js
+
+! 2022-08-21 https://www.facebook.com
+www.facebook.com###jsc_c_24 > span > .alzwoclg.i85zmo3j
+www.facebook.com###jsc_c_28 > span > .alzwoclg.i85zmo3j
+www.facebook.com##.q46jt4gp > div > span > div
+
+! 2022-10-22 https://www.thingiverse.com
+www.thingiverse.com##div.SearchResult__adBanner--Eu7kz.AdCard__fullWidth--18w6X.AdCard__card--2Kzyq
+
+! 2023-04-28 https://topnewreview.com
+topnewreview.com##ins > section > div
+topnewreview.com##section > p
+topnewreview.com##kbd > section
+topnewreview.com##ins > section
+
+! 2022-12-04 https://www.facebook.com
+www.facebook.com##.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x8du52y.x1164lod.x1yc453h.x1i64zmx.xat24cr.x1emribx.xdj266r.xjb2p0i.x1ypdohk.x1o6z2jb.x1i1ezom.x1otrzb0.xhk9q7s.xav7gou.xaqea5y.x1b1mbwd.x6umtig.x78zum5 > .xeuugli.xs83m0k.x1iyjqo2.x1r8uery.xamitd3
